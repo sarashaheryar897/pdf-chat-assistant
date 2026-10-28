@@ -19,7 +19,7 @@ Python · Streamlit · Google Gemini API · scikit-learn · pypdf
 
 ## Run it locally
 ```bash
-git clone https://github.com/<your-username>/pdf-chat-assistant.git
+git clone https://github.com/<sarashaheryar897>/pdf-chat-assistant.git
 cd pdf-chat-assistant
 python -m venv venv
 venv\Scripts\activate          # Windows  (Mac/Linux: source venv/bin/activate)
